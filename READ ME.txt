@@ -1,0 +1,6 @@
+open xampp
+click import
+select "tos.sql"
+and press go. 
+then open "index.php" in browser
+cut upto "htdocs/" in url and past "localhost/" at the beginning
